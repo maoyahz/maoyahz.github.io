@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# 猫芽网络 - A Jekyll Business Theme.
+# 猫芽网络 - 专业的市场营销服务提供商
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
