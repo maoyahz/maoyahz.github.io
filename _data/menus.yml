@@ -8,14 +8,3 @@ main:
   - name: "关于"
     url: "/about/"
     weight: 4
-  - name: "联系方式"
-    url: "/contact/"
-    weight: 5
-
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
