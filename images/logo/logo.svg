@@ -2,13 +2,13 @@
 <svg width="240px" height="64px" viewBox="0 0 240 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>编组</title>
     <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" x="0" y="0" width="240" height="64"></rect>
-            <text id="猫芽" font-family="AlibabaPuHuiTi_2_105_Heavy, Alibaba PuHuiTi 2.0" font-size="40" font-weight="800" fill="#323243">
-                <tspan x="41" y="46">猫芽</tspan>
+        <g id="编组" transform="translate(0.000000, -11.000000)">
+            <rect id="矩形" x="0" y="10" width="240" height="64"></rect>
+            <text id="猫芽" font-family="AlibabaPuHuiTi_2_105_Heavy, Alibaba PuHuiTi 2.0" font-size="60" font-weight="800" fill="#323243">
+                <tspan x="1" y="64">猫芽</tspan>
             </text>
-            <text id="网络" font-family="AlibabaPuHuiTi_2_105_Heavy, Alibaba PuHuiTi 2.0" font-size="40" font-weight="800" fill="#E42B24">
-                <tspan x="120" y="46">网络</tspan>
+            <text id="网络" font-family="AlibabaPuHuiTi_2_105_Heavy, Alibaba PuHuiTi 2.0" font-size="60" font-weight="800" fill="#E42B24">
+                <tspan x="120" y="64">网络</tspan>
             </text>
         </g>
     </g>
