@@ -1,13 +1,18 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+        <div class="call-phone"><strong>电话: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
     {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email: </strong>
+    <div class="call-email"><strong>邮箱: </strong>
       <a href="mailto:{{ .site.data.contact.email }}">
         {{ site.data.contact.email }}
       </a>
+    </div>
+    {% endif %}
+    {% if site.data.contact.wechat %}
+    <div class="call-email"><strong>微信: </strong>
+      {{ site.data.contact.wechat }}
     </div>
     {% endif %}
   </div>

@@ -1,11 +1,12 @@
 ---
-title: "Bill McDonald"
+title: "卢克进"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
-weight: 7
+image: "images/team/peter-van-eijk-711986-unsplash.jpg"
+jobtitle: "CTO"
+linkedinurl: "http://kejinlu.com/"
+promoted: true
+weight: 2
 layout: team
 ---
 
